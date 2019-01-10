@@ -154,9 +154,9 @@ aggiornati sul suo operato.
 
 I contenuti che soddisfano questo bisogno sono ad esempio:
 
--  Sindaco e giunta\*
+-  Sindaco e giunta
 
--  Programma\*
+-  Programma
 
 -  Comunicati e avvisi
 
@@ -175,7 +175,7 @@ città.
 
 A questo scopo, è necessario che il sito preveda dei moduli per:
 
--  **Esplorare gli event**\ i e gli avvenimenti in città, con funzioni
+-  **Esplorare gli eventi** e gli avvenimenti in città, con funzioni
    di filtro per data e luogo.
 
 -  **Conoscere musei civici e altri luoghi d'interesse della città**,
