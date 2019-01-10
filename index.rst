@@ -12,6 +12,7 @@ Design dei siti web dei Comuni italiani
 | Project manager | Lorenzo Fabbri                      |
 +-----------------+-------------------------------------+
 
+
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
