@@ -126,4 +126,4 @@ per coprire i bisogni.
    +--------+-----------------------+-----------------------+
 
 Consulta maggiori `dettagli sugli scenari
-d’uso <https://docs.google.com/spreadsheets/d/1Z_YgxckqlWJIBOOXpzMlpzbPfElMLA50-4grsndEX20/edit?usp=sharing>`__.
+d’uso <https://docs.google.com/spreadsheets/d/1QErVMJk8uXn1EiepoJkknO9248UjifRtWsoBnvRhnMU/edit?usp=sharing>`__.

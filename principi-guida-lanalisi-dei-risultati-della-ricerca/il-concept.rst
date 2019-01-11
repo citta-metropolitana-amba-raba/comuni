@@ -70,7 +70,7 @@ affinché siano compatibili con i requisiti della normativa e allo stesso
 tempo rendendoli più comprensibili e facili da trovare.
 
 `Maggiori dettagli sull’amministrazione
-trasparente <https://docs.google.com/spreadsheets/d/1tB7-hsyxmD6SF_4bj3C85tiZwwDfWEGrrr-DyYgXg9o/edit#gid=2074748223>`__
+trasparente <https://docs.google.com/spreadsheets/d/1A7AzDZ1CI-M2e8lMHjd29xXRCTUgCTYzBhl1LwTvDEE/edit#gid=2074748223>`__
 
 .. admonition:: deepening
    :class: admonition-deepening display-page

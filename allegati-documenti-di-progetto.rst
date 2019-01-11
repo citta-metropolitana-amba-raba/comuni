@@ -4,42 +4,24 @@ Allegati: documenti di progetto
 Tutti i documenti elencati di seguito si trovano nel Google Drive
 condiviso, a parte dove indicato diversamente.
 
-+-----------------------+-----------------------+-----------------------+
-| Design siti comuni:   | Slides                | https://docs.google.c |
-| sintesi del progetto  |                       | om/presentation/d/1-Z |
-|                       |                       | 2QYTFUejdgnCDPZGf2Emu |
-|                       |                       | pkXHv-RBcyjHExa5rDeE/ |
-|                       |                       | edit?usp=sharing      |
-+-----------------------+-----------------------+-----------------------+
-| D1 \_ Report ricerca  | Slides                | https://docs.google.c |
-|                       |                       | om/presentation/d/14I |
-|                       |                       | IitItFjJVZkeygpy-eZ3u |
-|                       |                       | iWOVAzw4TU4vUEKBtNN0/ |
-|                       |                       | edit?usp=sharing      |
-+-----------------------+-----------------------+-----------------------+
-| Architettura          | Spreadsheet           | https://docs.google.c |
-| informazione          |                       | om/spreadsheets/d/1tB |
-|                       |                       | 7-hsyxmD6SF_4bj3C85ti |
-|                       |                       | ZwwDfWEGrrr-DyYgXg9o/ |
-|                       |                       | edit?usp=sharing      |
-+-----------------------+-----------------------+-----------------------+
-| Scenari               | Spreadsheet           | https://docs.google.c |
-|                       |                       | om/spreadsheets/d/1Z_ |
-|                       |                       | YgxckqlWJIBOOXpzMlpzb |
-|                       |                       | PfElMLA50-4grsndEX20/ |
-|                       |                       | edit?usp=sharing      |
-+-----------------------+-----------------------+-----------------------+
-| Prototipi lo-fi       | Sketch                | https://invis.io/KNL7 |
-|                       |                       | CMVY67P               |
-+-----------------------+-----------------------+-----------------------+
-| Prototipi hi-fi       | Sketch                | Concept               |
-|                       |                       |                       |
-|                       |                       | | https://invis.io/Q2 |
-|                       |                       | OTF1RMNUB             |
-|                       |                       | | Sviluppo            |
-|                       |                       |                       |
-|                       |                       | https://invis.io/9FL7 |
-|                       |                       | CESJ8ZU               |
-+-----------------------+-----------------------+-----------------------+
-| Kit comunicazione     | Slides                | In lavorazione        |
-+-----------------------+-----------------------+-----------------------+
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Titolo                      | Tipo file   | Collegamento                                                                                                               |
++=============================+=============+============================================================================================================================+
+| Design siti comuni:         | Slides      | `Vai al documento <https://docs.google.com/presentation/d/1skVbBDfBjIxygcG0Trcfoxizv8LflSASAFXsXmHP9yI/edit?usp=sharing>`_ |
+| sintesi del progetto        |             |                                                                                                                            |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| D1 \_ Report ricerca        | Slides      | `Vai al documento <https://docs.google.com/presentation/d/1PUoY6dVSNJpHVT1YiE1YW6aYFmyr80dDYTkOiqvYDTo/edit?usp=sharing>`_ |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Architettura                | Spreadsheet | `Vai al documento <https://docs.google.com/spreadsheets/d/1A7AzDZ1CI-M2e8lMHjd29xXRCTUgCTYzBhl1LwTvDEE/edit?usp=sharing>`_ |
+| informazione                |             |                                                                                                                            |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Scenari                     | Spreadsheet | `Vai al documento <https://docs.google.com/spreadsheets/d/1QErVMJk8uXn1EiepoJkknO9248UjifRtWsoBnvRhnMU/edit?usp=sharing>`_ |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prototipi media definizione | Sketch      | `Vai al documento <https://invis.io/KNL7CMVY67P>`_                                                                         |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prototipi hi-fi             | Sketch      | `Vai al concept <https://invis.io/Q2OTF1RMNUB>`_                                                                           |
+|                             |             |                                                                                                                            |
+|                             |             | `File di sviluppo <https://invis.io/9FL7CESJ8ZU>`_                                                                         |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Kit comunicazione           | Slides      | In lavorazione                                                                                                             |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+

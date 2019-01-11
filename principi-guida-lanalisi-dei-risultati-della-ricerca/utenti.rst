@@ -34,4 +34,4 @@ utenza.
    +-------------+-----------------------+-----------------------+
 
 `Maggiori dettagli sugli
-utenti <https://docs.google.com/presentation/d/1-Z2QYTFUejdgnCDPZGf2EmupkXHv-RBcyjHExa5rDeE/edit#slide=id.g3daf82ee4d_0_453>`__.
+utenti <https://docs.google.com/presentation/d/1skVbBDfBjIxygcG0Trcfoxizv8LflSASAFXsXmHP9yI/edit#slide=id.g40aa93c8e2_0_539>`__.

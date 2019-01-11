@@ -118,7 +118,7 @@ proprie iniziative.
    +-----------------+-------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------------+
 
 `Maggiori dettagli sull'architettura delle
-informazioni <https://docs.google.com/spreadsheets/d/1tB7-hsyxmD6SF_4bj3C85tiZwwDfWEGrrr-DyYgXg9o/edit?usp=sharing>`__.
+informazioni <https://docs.google.com/spreadsheets/d/1A7AzDZ1CI-M2e8lMHjd29xXRCTUgCTYzBhl1LwTvDEE/edit?usp=sharing>`__.
 
 L’area personale
 ----------------
