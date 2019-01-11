@@ -48,7 +48,7 @@ Flessibilità
 Un sistema di classificazione dei contenuti per argomenti (circa 50
 parole chiave che descrivono nel modo migliore la realtà e la vita di un
 comune). Un sistema *bottom-up* che a partire dal contenuto permette di
-organizzarlo secondo i bisogni degli utenti
+organizzarlo secondo i bisogni degli utenti.
 
 Centralità dei servizi 
 -----------------------

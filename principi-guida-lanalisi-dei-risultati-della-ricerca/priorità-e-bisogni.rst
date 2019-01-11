@@ -32,9 +32,9 @@ particolare, i cittadini si aspettano:
    .. container:: more
 
       +-----------------------+-----------------------+-----------------------+
-      | **Servizi             | **Descrizione**       | **Criticità**         |
-      | prioritari**          |                       |                       |
-      +-----------------------+-----------------------+-----------------------+
+      | Servizi               | Descrizione           | Criticità             |
+      | prioritari            |                       |                       |
+      +=======================+=======================+=======================+
       | Prenotazione          | Prendere appuntamento | Ora è un servizio     |
       | appuntamenti          | online per pratiche   | assente, o limitato,  |
       |                       | in cui è necessario o | incertezza sui        |

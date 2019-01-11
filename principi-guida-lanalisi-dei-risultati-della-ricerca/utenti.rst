@@ -2,7 +2,7 @@ Utenti
 ======
 
 La fase di ricerca qualitativa ha permesso di definire 5 categorie di
-utenti del sito (vedi Tabella :numref:`%s <personas>`). 
+utenti del sito (vedi :numref:`Tabella %s <personas>`). 
 Ogni categoria è rappresentativa di diversi tipi di
 utenza.
 
@@ -10,8 +10,8 @@ utenza.
    :name: personas
 
    +-------------+-----------------------+-----------------------+
-   | **Ruolo**   | **Esempio**           | **Uso prevalente**    |
-   +-------------+-----------------------+-----------------------+
+   | Ruolo       | Esempio               | Uso prevalente        |
+   +=============+=======================+=======================+
    | Cittadini   | Privati, famiglie,    | Accesso ai servizi    |
    |             | pendolari             |                       |
    +-------------+-----------------------+-----------------------+

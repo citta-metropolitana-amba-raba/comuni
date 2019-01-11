@@ -75,35 +75,35 @@ generale.
 .. table:: Utenti partecipanti ai test su Firenze
    :name: utenti-firenze
 
-   +--------------+-----------------------+--------+
-   | **Utente**   | **Descrizione**       | **N°** |
-   +--------------+-----------------------+--------+
-   | Super user   | Usano frequentemente  | 2      |
-   |              | i servizi online del  |        |
-   |              | Comune (es.           |        |
-   |              | Amministrazione       |        |
-   |              | Trasparente e Albo    |        |
-   |              | pretorio).            |        |
-   +--------------+-----------------------+--------+
-   | Innovatori   | Sicuri nell’uso della | 3      |
-   |              | tecnologia,           |        |
-   |              | preferiscono usare    |        |
-   |              | servizi digitali      |        |
-   |              | quando ne hanno la    |        |
-   |              | possibilità.          |        |
-   +--------------+-----------------------+--------+
-   | Cauti        | Diffidenti o poco     | 2      |
-   |              | abituati a usare      |        |
-   |              | servizi digitali,     |        |
-   |              | preferiscono          |        |
-   |              | l’interazione diretta |        |
-   |              | con persone.          |        |
-   +--------------+-----------------------+--------+
-   | Mobile first | Usano prevalentemente | 1      |
-   |              | lo smartphone per     |        |
-   |              | accedere ai servizi   |        |
-   |              | digitali.             |        |
-   +--------------+-----------------------+--------+
+   +--------------+-----------------------+----+
+   | Utente       | Descrizione           | N° |
+   +==============+=======================+====+
+   | Super user   | Usano frequentemente  | 2  |
+   |              | i servizi online del  |    |
+   |              | Comune (es.           |    |
+   |              | Amministrazione       |    |
+   |              | Trasparente e Albo    |    |
+   |              | pretorio).            |    |
+   +--------------+-----------------------+----+
+   | Innovatori   | Sicuri nell’uso della | 3  |
+   |              | tecnologia,           |    |
+   |              | preferiscono usare    |    |
+   |              | servizi digitali      |    |
+   |              | quando ne hanno la    |    |
+   |              | possibilità.          |    |
+   +--------------+-----------------------+----+
+   | Cauti        | Diffidenti o poco     | 2  |
+   |              | abituati a usare      |    |
+   |              | servizi digitali,     |    |
+   |              | preferiscono          |    |
+   |              | l’interazione diretta |    |
+   |              | con persone.          |    |
+   +--------------+-----------------------+----+
+   | Mobile first | Usano prevalentemente | 1  |
+   |              | lo smartphone per     |    |
+   |              | accedere ai servizi   |    |
+   |              | digitali.             |    |
+   +--------------+-----------------------+----+
 
 
 .. admonition:: deepening

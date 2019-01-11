@@ -12,15 +12,15 @@ due attributi fondamentali:
    informazioni contenute in una pagina. Permettono di raggiungere le
    informazioni per analogia.
 
-Il modello di architettura dell’informazione che nasce da questo
-progetto è presentato nella Tabella 4. I contenuti sono organizzati in 5
-sezioni più un’area personale, accessibile tramite login. Ciascuna area
-ha una propria tassonomia specifica (categorie), mentre una lista di
-argomenti permette di aggregare tutte le tipologie di contenuti in aree
-omogenee, funzionali ai bisogni dell’utente. Abbiamo pensato che sia
-possibile associare queste pagine argomento a uno o più uffici del
-Comune, per rispondere ai bisogni dei cittadini e mostrare ai cittadini
-quali sono gli enti che se ne occupano.
+Il modello di architettura dell’informazione che nasce da questo progetto è
+presentato nella :numref:`Tabella %s <tabella-ai>`.  I contenuti sono
+organizzati in 5 sezioni più un’area personale, accessibile tramite login.
+Ciascuna area ha una propria tassonomia specifica (categorie), mentre una lista
+di argomenti permette di aggregare tutte le tipologie di contenuti in aree
+omogenee, funzionali ai bisogni dell’utente. Abbiamo pensato che sia possibile
+associare queste pagine argomento a uno o più uffici del Comune, per rispondere
+ai bisogni dei cittadini e mostrare ai cittadini quali sono gli enti che se ne
+occupano.
 
 .. figure:: ../media/image1.jpg
    :name: argomenti
