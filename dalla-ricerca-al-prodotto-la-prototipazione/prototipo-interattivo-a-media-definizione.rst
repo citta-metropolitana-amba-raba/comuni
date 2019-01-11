@@ -7,42 +7,43 @@ svolte per portare a termine i compiti desiderati. L’assenza di dettagli
 grafici permette di concentrarsi sulle operazioni, invece che
 sull’aspetto estetico del sito.
 
-I prototipi realizzati finora sono elencati nella Tabella 6.
+I prototipi realizzati finora sono elencati nella 
+:numref:`Tabella %s <link-prototipi-tab>`.
 
-*Tabella 6: link ai prototipi lo-fi per i diversi scenari d’uso.
-I file sorgente (sketch) dei prototipi sono disponibili nel*\ `repo
-GitHub del
-progetto <https://github.com/italia/design-comuni-prototipi>`__\ *.*
+.. table:: Link ai prototipi lo-fi per i diversi scenari d’uso.
+   I file sorgente (sketch) dei prototipi sono disponibili nel 
+   `repository GitHub del
+   progetto <https://github.com/italia/design-comuni-prototipi>`_.
+   :name: link-prototipi-tab
 
-+-----------------------+-----------------------+-----------------------+
-| **Codice**            | **Nome**              | **Link**              |
-+-----------------------+-----------------------+-----------------------+
-| S01                   | Approfondire un tema  | https://invis.io/KNL7 |
-|                       | importante per la     | CMVY67P#/316444401_S0 |
-|                       | città                 | 1_-M-_Cover           |
-+-----------------------+-----------------------+-----------------------+
-| S02                   | Scoprire gli eventi   | https://invis.io/KNL7 |
-|                       | in programma e        | CMVY67P#/307828799_S0 |
-|                       | l’orario di apertura  | 2_-M-_Cover           |
-|                       | di uno spazio         |                       |
-|                       | espositivo            |                       |
-+-----------------------+-----------------------+-----------------------+
-| S03                   | Iscrivere un figlio   | https://invis.io/KNL7 |
-|                       | all’asilo nido        | CMVY67P#/306238809_S0 |
-|                       |                       | 3_-M-_Cover           |
-+-----------------------+-----------------------+-----------------------+
-| S04                   | Individuare l’ufficio | https://invis.io/KNL7 |
-|                       | competente su un      | CMVY67P#/306606684_S0 |
-|                       | argomento e prenotare | 4_-M-_Cover           |
-|                       | un appuntamento       |                       |
-+-----------------------+-----------------------+-----------------------+
-| S08                   | Fare richiesta per la | https://invis.io/KNL7 |
-|                       | pubblicazione di      | CMVY67P#/315569949_S0 |
-|                       | matrimonio            | 8_-M-_Cover           |
-+-----------------------+-----------------------+-----------------------+
-| S09                   | Trovare opportunità   | https://invis.io/KNL7 |
-|                       | per le imprese        | CMVY67P#/310765037_S0 |
-|                       |                       | 9_-M-_Cover           |
-+-----------------------+-----------------------+-----------------------+
+   +--------+------------------------------------------------------------------------+
+   | Codice | Nome                                                                   |
+   +========+========================================================================+
+   | S01    | `Approfondire un tema                                                  |
+   |        | importante per la                                                      |
+   |        | città <https://invis.io/KNL7CMVY67P#/316444401_S01_-M-_Cover>`_        |
+   +--------+------------------------------------------------------------------------+
+   | S02    | `Scoprire gli eventi                                                   |
+   |        | in programma e                                                         |
+   |        | l’orario di apertura                                                   |
+   |        | di uno spazio                                                          |
+   |        | espositivo <https://invis.io/KNL7CMVY67P#/307828799_S02_-M-_Cover>`_   |
+   +--------+------------------------------------------------------------------------+
+   | S03    | `Iscrivere un figlio                                                   |
+   |        | all’asilo                                                              |
+   |        | nido <https://invis.io/KNL7CMVY67P#/306238809_S03_-M-_Cover>`_         |
+   +--------+------------------------------------------------------------------------+
+   | S04    | `Individuare l’ufficio                                                 |
+   |        | competente su un                                                       |
+   |        | argomento e prenotare un                                               |
+   |        | appuntamento <https://invis.io/KNL7CMVY67P#/306606684_S04_-M-_Cover>`_ |
+   +--------+------------------------------------------------------------------------+
+   | S08    | `Fare richiesta per la                                                 |
+   |        | pubblicazione di                                                       |
+   |        | matrimonio <https://invis.io/KNL7CMVY67P#/315569949_S08_-M-_Cover>`_   |
+   +--------+------------------------------------------------------------------------+
+   | S09    | `Trovare opportunità                                                   |
+   |        | per le                                                                 |
+   |        | imprese <https://invis.io/KNL7CMVY67P#/310765037_S09_-M-_Cover>`_      |
+   +--------+------------------------------------------------------------------------+
 
-.. _section-6:

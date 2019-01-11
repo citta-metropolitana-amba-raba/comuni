@@ -72,38 +72,37 @@ tempo rendendoli più comprensibili e facili da trovare.
 `Maggiori dettagli sull’amministrazione
 trasparente <https://docs.google.com/spreadsheets/d/1tB7-hsyxmD6SF_4bj3C85tiZwwDfWEGrrr-DyYgXg9o/edit#gid=2074748223>`__
 
-.. _section-1:
+.. admonition:: deepening
+   :class: admonition-deepening display-page
 
-.. _section-2:
 
-.. _section-3:
+   **DA FARE**
 
-+-----------------------------------------------------------------------+
-| | DA FARE                                                             |
-| | Fare una lista di parole chiave su argomenti che interessano alla   |
-|   gente. Usarla per classificare i contenuti.                         |
-|                                                                       |
-| Dopo aver creato la lista, usare le parole chiave ogni volta che si   |
-| crea un contenuto, si tratti di un servizio, una notizia o un         |
-| documento. In questo modo i contenuti verranno aggregati              |
-| “magicamente” :) sulla base degli argomenti che le persone cercano    |
-| ogni giorno.                                                          |
-|                                                                       |
-| | DA NON FARE                                                         |
-| | Creare un sito web per ogni iniziativa                              |
-|                                                                       |
-| | Sono veramente pochi i casi in cui un Comune ha bisogno di più di   |
-|   un sito internet. Questo può avvenire nel caso di servizi verticali |
-|   specifici, come le biblioteche, oppure nel caso di siti turistici   |
-|   particolarmente complessi di città turistiche.                      |
-| | Da evitare l’abitudine di creare siti nuovi “per mettere in         |
-|   evidenza” progetti o iniziative del Comune. Il modo migliore per    |
-|   metterli in evidenza è usare il sito ufficiale del Comune.          |
-| | Nel progetto abbiamo considerato la necessità di esigenze di        |
-|   identificazione di progetti/iniziative specifici che possono essere |
-|   gestite creando una pagina argomento che consente di inserire loghi |
-|   e brand specifici, e di collegare gli uffici che hanno fatto nasce  |
-|   l’iniziativa                                                        |
-+-----------------------------------------------------------------------+
+   **Fare una lista di parole chiave su argomenti che interessano alla   
+   gente e usarla per classificare i contenuti.**                         
+                                                                         
+   Dopo aver creato la lista, usare le parole chiave ogni volta che si   
+   crea un contenuto, si tratti di un servizio, una notizia o un         
+   documento. In questo modo i contenuti verranno aggregati              
+   “magicamente” sulla base degli argomenti che le persone cercano    
+   ogni giorno.                                                          
+   
+   .. container:: more
 
-.. _section-4:
+      **DA NON FARE**
+
+      **Creare un sito web per ogni iniziativa**
+                                                                          
+      Sono veramente pochi i casi in cui un Comune ha bisogno di più di   
+      un sito internet. Questo può avvenire nel caso di servizi verticali 
+      specifici, come le biblioteche, oppure nel caso di siti turistici   
+      particolarmente complessi di città turistiche.                      
+      Da evitare l’abitudine di creare siti nuovi “per mettere in         
+      evidenza” progetti o iniziative del Comune. Il modo migliore per    
+      metterli in evidenza è usare il sito ufficiale del Comune.          
+      Nel progetto abbiamo considerato la necessità di esigenze di        
+      identificazione di progetti/iniziative particolari che possono essere 
+      gestiti creando una pagina argomento che consente di inserire loghi 
+      e brand specifici, e di collegare gli uffici che hanno fatto nascere  
+      l’iniziativa.
+

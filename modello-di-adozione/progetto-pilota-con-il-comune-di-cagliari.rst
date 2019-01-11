@@ -1,14 +1,16 @@
 Progetto pilota con il Comune di Cagliari
 =========================================
 
-Il Comune di Cagliari, che dalla segue l’evoluzione di Designers Italia
-dalla nascita, ha deciso di diventare early adopter e utilizzare il
+Il Comune di Cagliari, che segue l’evoluzione di Designers Italia
+dalla nascita, ha deciso di diventare *early adopter* e utilizzare il
 prototipo per la nuova versione del proprio sito web.
 
-|image0|
+.. figure:: ../media/image13.png
+   :alt: Prototipo in alta definizione del nuovo sito del Comune di Cagliari
+   :name: prototipo-cagliari
 
-*Figura 12. Prototipo in alta definizione (in fase di realizzazione) del
-sito istituzionale del Comune di Cagliari.*
+   Prototipo in alta definizione del nuovo sito istituzionale
+   del Comune di Cagliari (in fase di realizzazione). 
 
 Strategia digitale del Comune di Cagliari
 -----------------------------------------
@@ -42,7 +44,7 @@ rilasciati in modalità open source a disposizione di tutti i Comuni
 italiani. Per questo è stato creato il repository pubblico di GitHub
 dove verranno condivisi tutti gli elementi di UI/UX e di sviluppo. Tutta
 la documentazione relativa al progetto verrà posizionata all’interno di
-una sezione dedicata di docs.italia.it.
+una sezione dedicata di `docs.italia.it <https://docs.italia.it>`_.
 
 Il progetto
 -----------
@@ -66,6 +68,3 @@ Il progetto
 
 Il rilascio finale del sito è previsto per maggio del 2019.
 
-.. |image0| image:: ./media/image21.png
-   :width: 6.27083in
-   :height: 3.54167in

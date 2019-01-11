@@ -20,14 +20,16 @@ argomenti permette di aggregare tutte le tipologie di contenuti in aree
 omogenee, funzionali ai bisogni dell’utente. Abbiamo pensato che sia
 possibile associare queste pagine argomento a uno o più uffici del
 Comune, per rispondere ai bisogni dei cittadini e mostrare ai cittadini
-quali sono gli enti che se ne occupano
+quali sono gli enti che se ne occupano.
 
-|image0|
+.. figure:: ../media/image1.jpg
+   :name: argomenti
+   :alt: Le pagine Argomento raccolgono contenuti e servizi di uno o più uffici
 
-*Figura 1. Gli argomenti raccolgono i contenuti e i servizi che
-afferiscono ad uno o più uffici, facilitando dove necessario l’accesso
-ai siti tematici (sinistra). Ogni ufficio è raccontato tramite una
-scheda che ne evidenzia i servizi e i contenuti (destra).*
+   Gli argomenti raccolgono i contenuti e i servizi che
+   afferiscono ad uno o più uffici, facilitando dove necessario l’accesso
+   ai siti tematici (sinistra). Ogni ufficio è raccontato tramite una
+   scheda che ne evidenzia i servizi e i contenuti (destra).
 
 Un’alternativa ai siti tematici
 -------------------------------
@@ -50,126 +52,70 @@ uffici che compongono l’amministrazione. Gli argomenti offrono agli
 uffici la possibilità di gestire i propri contenuti e condividere le
 proprie iniziative.
 
-|image1|
+.. figure:: ../media/image2.jpg
+   :name: siti-tematici
+   :alt: Pagina dedicata a un ufficio, con contatti e competenze generali
 
-*Figura 2. La pagina dedicata a ogni ufficio mostra non solo i contatti
-e le competenze generali, ma anche gli argomenti gestiti e i servizi
-offerti (wireframe)*
+   La pagina dedicata a ogni ufficio mostra non solo i contatti
+   e le competenze generali, ma anche gli argomenti gestiti e i servizi
+   offerti (wireframe).
 
-*Tabella 4. Architettura dell’informazione del sito dei Comuni*
 
-+-------------+-------------+-------------+-------------+-------------+
-| **Sezioni** | **Descrizio | **Categorie | **Argomenti | **Amministr |
-|             | ne**        | **          | **          | azione      |
-|             |             |             |             | trasparente |
-|             |             |             |             | **          |
-+-------------+-------------+-------------+-------------+-------------+
-| Servizi     | Procedure   | -  Pagament | -  Agevolaz | Tutti i     |
-|             | per         | i           | ioni        | contenuti   |
-|             | scambiare   |             |    per la   | del sito    |
-|             | informazion | -  Sostegno |    casa     | quando      |
-|             | i           |             |             | vengono     |
-|             | con il      | -  Segnalaz | -  Animali  | pubblicati  |
-|             | Comune e    | ioni        |             | possono     |
-|             | usufruire   |             | -  Anziani  | essere      |
-|             | dei servizi | -  Autorizz |             | classificat |
-|             | offerti     | azioni      | -  Assisten | i           |
-|             |             |    e        | za          | secondo la  |
-|             |             |    concessi |    e        | tassonomia  |
-|             |             | oni         |    inclusio | prevista    |
-|             |             |             | ne          | per         |
-|             |             | -  Certific |             | amministraz |
-|             |             | ati         | -  Associaz | ione        |
-|             |             |    e        | ioni        | trasparente |
-|             |             |    dichiara |             | ,           |
-|             |             | zioni       | -  Bambini  | in modo da  |
-|             |             |             |    e        | essere      |
-|             |             | -  Servizi  |    ragazzi  | visibili    |
-|             |             |    pubblici |             | **anche**   |
-|             |             |             | -  Cantieri | nella       |
-|             |             |             |    e        | sezione     |
-|             |             |             |    progetti | amministraz |
-|             |             |             |             | ione        |
-|             |             |             | -  Comune   | trasparente |
-|             |             |             |             |             |
-|             |             |             | -  Comunica |             |
-|             |             |             | re          |             |
-|             |             |             |    con il   |             |
-|             |             |             |    comune   |             |
-|             |             |             |             |             |
-|             |             |             | -  Corsi e  |             |
-|             |             |             |    tempo    |             |
-|             |             |             |    libero   |             |
-|             |             |             |             |             |
-|             |             |             | -  Costruir |             |
-|             |             |             | e           |             |
-|             |             |             |    e        |             |
-|             |             |             |    ristrutt |             |
-|             |             |             | urare       |             |
-|             |             |             |             |             |
-|             |             |             | -  Cultura  |             |
-|             |             |             |             |             |
-|             |             |             | -  …        |             |
-|             |             |             |             |             |
-|             |             |             | `Lista      |             |
-|             |             |             | completa <h |             |
-|             |             |             | ttps://docs |             |
-|             |             |             | .google.com |             |
-|             |             |             | /spreadshee |             |
-|             |             |             | ts/d/1tB7-h |             |
-|             |             |             | syxmD6SF_4b |             |
-|             |             |             | j3C85tiZwwD |             |
-|             |             |             | fWEGrrr-DyY |             |
-|             |             |             | gXg9o/edit# |             |
-|             |             |             | gid=1007028 |             |
-|             |             |             | 751>`__     |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Documenti   | La versione | -  Progetti |             |             |
-|             | digitale di |    e        |             |             |
-|             | un atto     |    attività |             |             |
-|             | ufficiale o |             |             |             |
-|             | di un       | -  Atti     |             |             |
-|             | progetto    |    amminist |             |             |
-|             | dell’ammini | rativi      |             |             |
-|             | strazione   |             |             |             |
-|             |             | -  Bandi    |             |             |
-|             |             |             |             |             |
-|             |             | -  Concorsi |             |             |
-|             |             |             |             |             |
-|             |             | -  (Albo    |             |             |
-|             |             |    pretorio |             |             |
-|             |             | )           |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Amministraz | La          | -  Giunta e |             |             |
-| ione        | struttura   |    consigli |             |             |
-|             | dell’ammini | o           |             |             |
-|             | strazione   |             |             |             |
-|             | e le        | -  Aree di  |             |             |
-|             | modalità di |    competen |             |             |
-|             | accesso     | za          |             |             |
-|             | alle        |             |             |             |
-|             | risorse     | -  Cariche  |             |             |
-|             |             |             |             |             |
-|             |             | -  Dipenden |             |             |
-|             |             | ti          |             |             |
-|             |             |             |             |             |
-|             |             | -  Luoghi   |             |             |
-|             |             |             |             |             |
-|             |             | -  Associaz |             |             |
-|             |             | ioni        |             |             |
-|             |             |    e        |             |             |
-|             |             |    società  |             |             |
-|             |             |    partecip |             |             |
-|             |             | ate         |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Novità      | Contenuti   | -  Notizie  |             |             |
-|             | effimeri,   |             |             |             |
-|             | validi per  | -  Eventi   |             |             |
-|             | un periodo  |             |             |             |
-|             | di tempo    | -  Comunica |             |             |
-|             | circoscritt | ti          |             |             |
-|             | o           |    stampa   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+.. table:: Architettura dell’informazione del sito dei Comuni
+   :name: tabella-ai
+
+   +-----------------+-------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------------+
+   | Sezioni         | Descrizione             | Categorie                      | Argomenti                                                                                                                   | Amminstrazione trasparente   |
+   +=================+=========================+================================+=============================================================================================================================+==============================+
+   | Servizi         | Procedure per scambiare | - Pagamenti                    | - Agevolazioni per la casa                                                                                                  | Tutti i contenuti del        |
+   |                 | informazioni con il     |                                |                                                                                                                             | sito quando vengono          |
+   |                 | Comune e usufruire dei  | - Sostegno                     | - Animali                                                                                                                   | pubblicati possono essere    |
+   |                 | servizi offerti         |                                |                                                                                                                             | classificati secondo la      |
+   |                 |                         | - Segnalazioni                 | - Anziani                                                                                                                   | tassonomia prevista per      |
+   |                 |                         |                                |                                                                                                                             | amministrazione trasparente, |
+   |                 |                         | - Autorizzazioni e concessioni | - Assistenza e inclusione                                                                                                   | in modo da poter essere      |
+   |                 |                         |                                |                                                                                                                             | visibili **anche** nella     |
+   |                 |                         | - Certificati e dichiarazioni  | - Associazioni                                                                                                              | sezione amministrazione      |
+   |                 |                         |                                |                                                                                                                             | trasparente                  |
+   |                 |                         | - Servizi pubblici             | - Bambini e ragazzi                                                                                                         |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - Cantieri e progetti                                                                                                       |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - Comune                                                                                                                    |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - Comunicare con il comune                                                                                                  |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - Corsi e tempo libero                                                                                                      |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - Costruire e                                                                                                               |                              |
+   |                 |                         |                                |   ristrutturare                                                                                                             |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - Cultura                                                                                                                   |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | - ...                                                                                                                       |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                | `Lista completa <https://docs.google.com/spreadsheets/d/1tB7-hsyxmD6SF_4bj3C85tiZwwDfWEGrrr-DyYgXg9o/edit#gid=1007028751>`_ |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   |                 |                         |                                |                                                                                                                             |                              |
+   +-----------------+-------------------------+--------------------------------+                                                                                                                             |                              |
+   | Documenti       | La versione digitale    | - Progetti e attività          |                                                                                                                             |                              |
+   |                 | di un atto ufficiale o  | - Atti amministrativi          |                                                                                                                             |                              |
+   |                 | di un progetto          | - Bandi                        |                                                                                                                             |                              |
+   |                 | dell'amministrazione    | - Concorsi                     |                                                                                                                             |                              |
+   |                 |                         | - Albo pretorio                |                                                                                                                             |                              |
+   +-----------------+-------------------------+--------------------------------+                                                                                                                             |                              |
+   | Amministrazione | La struttura            | - Giunta e consiglio           |                                                                                                                             |                              |
+   |                 | dell'amministrazione    | - Aree di competenza           |                                                                                                                             |                              |
+   |                 | e le modalità di        | - Cariche                      |                                                                                                                             |                              |
+   |                 | accesso alle risorse    | - Dipendenti                   |                                                                                                                             |                              |
+   |                 |                         | - Luoghi                       |                                                                                                                             |                              |
+   |                 |                         | - Associazioni e               |                                                                                                                             |                              |
+   |                 |                         |   società partecipate          |                                                                                                                             |                              |
+   +-----------------+-------------------------+--------------------------------+                                                                                                                             |                              |
+   | Novità          | Contenuti effimeri,     | - Notizie                      |                                                                                                                             |                              |
+   |                 | validi per un periodo   | - Eventi                       |                                                                                                                             |                              |
+   |                 | di tempo circoscritto   | - Comunicati stampa            |                                                                                                                             |                              |
+   +-----------------+-------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------------+
 
 `Maggiori dettagli sull'architettura delle
 informazioni <https://docs.google.com/spreadsheets/d/1tB7-hsyxmD6SF_4bj3C85tiZwwDfWEGrrr-DyYgXg9o/edit?usp=sharing>`__.
@@ -187,11 +133,13 @@ L’obiettivo è di rendere immediato l’accesso alle informazioni più
 urgenti per le quali è necessaria un’azione dell’utente, delegando ad
 altre sedi e altri canali i messaggi puramente informativi.
 
-|image2|
+.. figure:: ../media/image3.jpg
+   :alt: Pagina personale del sito. 
+   :name: pagina-personale-sito
 
-*Figura 3. La pagina personale del sito pone l’accento sulle azioni più
-urgenti e offre un accesso organizzato ai procedimenti in corso o già
-archiviati*
+   La pagina personale del sito pone l’accento sulle azioni più
+   urgenti e offre un accesso organizzato ai procedimenti in corso o già
+   archiviati.
 
 La scheda di un servizio
 ------------------------
@@ -203,7 +151,11 @@ Nella quasi totalità dei casi per usufruire di un servizio è necessario
 completare una procedura in cui deve essere chiaro all’utente il
 processo, gli attori coinvolti e il loro ruolo.
 
-*Figura 4. Struttura di una scheda servizio*
+.. figure:: ../media/image4.png
+   :alt: Struttura di una scheda di servizio.
+   :name: struttura-scheda-servizio
+
+   Struttura di una scheda servizio.
 
 La descrizione delle procedure ha una struttura a piramide inversa, che
 permette agli utenti di capire il contenuto anche con una lettura
@@ -218,7 +170,11 @@ al flusso di prenotazione di un appuntamento.
 User flow di un servizio
 ------------------------
 
-*Figura 5. Flusso di accesso e fruizione di un servizio*
+.. figure:: ../media/image5.png
+   :alt: Flusso di accesso e fruizione di un servizio
+   :name: flusso-accesso
+
+   Flusso di accesso e fruizione di un servizio.
 
 Abbiamo lavorato sull’idea che la fruizione dei servizi debba seguire un
 flusso standard, a partire dalla struttura delle informazioni fino
@@ -231,22 +187,11 @@ Interfaccia utente
 Un sistema di indice di pagina permette di vedere a colpo d’occhio i
 contenuti di una pagina e scorrere velocemente tra i paragrafi: l’idea è
 quella di semplificare la lettura dei contenuti e offrire un sistema di
-navigazione flessibile (vedi Figura 6).
+navigazione flessibile (vedi :numref:`Figura %s <pagina-descrizione-servizi>`).
 
-|image3|
+.. figure:: ../media/image6.jpg
+   :alt: Pagina di descrizione dei servizi con indice delle sezioni
+   :name: pagina-descrizione-servizi
 
-*Figura 6. Pagina di descrizione dei servizi con un indice delle sezioni
-per rendere più veloce la navigazione, nella versione desktop e mobile.*
-
-.. |image0| image:: ./media/image1.jpg
-   :width: 6.27083in
-   :height: 4.5264in
-.. |image1| image:: ./media/image3.png
-   :width: 4.41406in
-   :height: 3.76149in
-.. |image2| image:: ./media/image7.png
-   :width: 4.41406in
-   :height: 2.23155in
-.. |image3| image:: ./media/image9.jpg
-   :width: 6.27083in
-   :height: 3.29934in
+   Pagina di descrizione dei servizi con un indice delle sezioni
+   per rendere più veloce la navigazione, nella versione desktop e mobile.
