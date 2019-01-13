@@ -52,7 +52,7 @@ approfondire le informazioni.
 Trasparenza
 ~~~~~~~~~~~
 
-Una delle criticità maggiori è l'amministrazione trasparente:deve essere
+Una delle criticità maggiori è l'amministrazione trasparente: deve essere
 presente per legge, è molto complessa e idealmente va gestita senza
 duplicare di contenuti. Sarebbe ideale riuscire a estrapolare alcuni
 contenuti che descrivono i numerosi pdf caricati (es. bandi) in modo da
