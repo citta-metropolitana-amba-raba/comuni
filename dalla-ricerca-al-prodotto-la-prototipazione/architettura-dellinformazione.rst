@@ -17,7 +17,7 @@ presentato nella :numref:`Tabella %s <tabella-ai>`.
 I contenuti sono organizzati in quattro sezioni (Amministrazione, Novità,
 Servizi e Documenti) più la sezione Amministrazione trasparente.  Esiste poi
 un’area personale, accessibile tramite login.  Ciascuna area ha una propria
-tassonomia specifica (categorie), mentre una lista di argomenti permette di
+tassonomia specifica (divisione in categorie), mentre una lista di argomenti permette di
 aggregare tutte le tipologie di contenuti in aree omogenee, funzionali ai
 bisogni dell’utente. Abbiamo pensato che sia possibile associare queste pagine
 argomento a uno o più uffici del Comune, per rispondere ai bisogni dei
