@@ -14,7 +14,7 @@ per sviluppare la propria offerta digitale in modo rapido e a basso costo.
 
 Il progetto nasce dall’analisi dell’esperienza di molti Comuni italiani
 e in particolare dalla collaborazione con i Comuni di Firenze, dove il
-progetto ha mosso i primi passi, e di Cagliari, che sarà il primo Comune
+progetto ha mosso i primi passi, e di Cagliari, che sarà il primo comune
 italiano ad adottare questo modello. Inoltre si basa su un utile scambio
 di esperienze con il progetto Myportal 3 e i servizi ai comuni
 realizzati dalla Regione Veneto.
