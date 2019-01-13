@@ -12,9 +12,9 @@ questo motivo abbiamo creato dei prototipi a media definizione degli
 scenari, in modo da renderli facili da capire e da riprodurre.
 
 Non c’è nessun obiettivo (e neppure bisogno) di realizzare una
-rappresentazione esaustiva delle decine di servizi che un Comune offre
+rappresentazione esaustiva delle decine di servizi che un comune offre
 ai propri utenti. Partendo dagli scenari d’uso sviluppati e usando il
-design system di Designers Italia, ogni Comune potrà creare nuovi flussi
+design system di Designers Italia, ogni comune potrà creare nuovi flussi
 per coprire i bisogni.
 
 .. table:: Scenari d’uso.

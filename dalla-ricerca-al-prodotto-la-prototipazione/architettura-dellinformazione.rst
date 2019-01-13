@@ -20,7 +20,7 @@ un’area personale, accessibile tramite login.  Ciascuna area ha una propria
 tassonomia specifica (divisione in categorie), mentre una lista di argomenti permette di
 aggregare tutte le tipologie di contenuti in aree omogenee, funzionali ai
 bisogni dell’utente. Abbiamo pensato che sia possibile associare queste pagine
-argomento a uno o più uffici del Comune, per rispondere ai bisogni dei
+argomento a uno o più uffici del comune, per rispondere ai bisogni dei
 cittadini e mostrare ai cittadini quali sono gli enti che se ne occupano.
 
 .. figure:: ../media/image1.jpg
@@ -62,7 +62,7 @@ proprie iniziative.
    offerti (wireframe).
 
 
-.. table:: Architettura dell’informazione del sito dei Comuni
+.. table:: Architettura dell’informazione del sito dei comuni
    :name: tabella-ai
 
    +-----------------+-------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------------+
@@ -70,7 +70,7 @@ proprie iniziative.
    +=================+=========================+================================+=============================================================================================================================+==============================+
    | Servizi         | Procedure per scambiare | - Pagamenti                    | - Agevolazioni per la casa                                                                                                  | Tutti i contenuti del        |
    |                 | informazioni con il     |                                |                                                                                                                             | sito quando vengono          |
-   |                 | Comune e usufruire dei  | - Sostegno                     | - Animali                                                                                                                   | pubblicati possono essere    |
+   |                 | comune e usufruire dei  | - Sostegno                     | - Animali                                                                                                                   | pubblicati possono essere    |
    |                 | servizi offerti         |                                |                                                                                                                             | classificati secondo la      |
    |                 |                         | - Segnalazioni                 | - Anziani                                                                                                                   | tassonomia prevista per      |
    |                 |                         |                                |                                                                                                                             | amministrazione trasparente, |
