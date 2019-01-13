@@ -1,16 +1,16 @@
 Attività di ricerca
 ===================
 
-L’iniziale fase di ricerca ha preso in considerazione l’analisi della
+La fase di ricerca iniziale ha preso in considerazione l’analisi della
 situazione esistente e dei bisogni degli utenti con diverse modalità
 operative.
 
 1. **Interviste e test di usabilità** sul sito del Comune di Firenze,
    per identificare i bisogni e le aspettative degli utenti e le
-   criticità della UX.
+   criticità della UX (*user experience*).
 
 2. **Analisi desk** (raccolta di informazioni e analisi dei siti web dei
-   comuni italiani) per raccogliere dati quantitativi e qualitativi
+   Comuni italiani) per raccogliere dati quantitativi e qualitativi
    sullo stato dell’arte dei siti dei Comuni italiani.
 
 3. **Interviste agli stakeholder**, per allineare la visione del

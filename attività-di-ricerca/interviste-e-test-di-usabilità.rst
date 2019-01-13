@@ -23,21 +23,21 @@ Sono emersi quattro temi che definiscono il sito di un comune.
 Identità
 ~~~~~~~~
 
-Il sito del Comune dovrebbe rappresentare il più possibile la comunità,
+Il sito del comune dovrebbe rappresentare il più possibile la comunità,
 diventare un punto di riferimento per chi ci vive, per i cittadini che
-si sono trasferiti altrove o per chi viene in visita. Dobbiamo
+si sono trasferiti altrove e per chi viene in visita. Dobbiamo
 considerare diversi utenti (dal cittadino al visitatore) e costruire un
 sistema flessibile (che si adatta alle specifiche esigenze di ciascun
-Comune).
+comune).
 
 Servizi
 ~~~~~~~
 
-È importante spiegare ai cittadini come fare le cose, da come pagare la
-TARI alle cose da fare per sposarsi: non basta mettere una serie di link
-da cui scaricare documenti. Anche quando i servizi sono disponibili
-attraverso siti separati, è fondamentale spiegare le procedure
-all’interno del sito del comune: cosa dev’essere fatto e come.
+È importante spiegare ai cittadini le procedure che devono seguire, per esempio
+per pagare la TARI o per sposarsi: non basta mettere una serie di link da cui
+scaricare documenti. Anche quando i servizi sono disponibili attraverso siti
+separati, è fondamentale spiegare le procedure all’interno del sito del comune:
+cosa dev’essere fatto e come.
 
 Informazione
 ~~~~~~~~~~~~
@@ -62,9 +62,9 @@ Test usabilità
 --------------
 
 Per identificare i bisogni, le aspettative degli utenti e le aree di
-miglioramento di UX/UI rispetto a un caso concreto, abbiamo svolto un
-primo ciclo di test di usabilità sul sito del Comune di Firenze. Con lo
-scopo di arricchire il quadro, nuove attività di ricerca vengono
+miglioramento di UX/UI rispetto a un caso concreto, abbiamo svolto un primo
+ciclo di test di usabilità sul sito del Comune di Firenze. In seguito, con lo
+scopo di arricchire il quadro, nuove attività di ricerca sono state e verranno
 condotte nell’ambito del progetto pilota per l’adozione del prototipo
 all’interno del Comune di Cagliari.
 
@@ -80,7 +80,7 @@ generale.
    +==============+=======================+====+
    | Super user   | Usano frequentemente  | 2  |
    |              | i servizi online del  |    |
-   |              | Comune (es.           |    |
+   |              | comune (es.           |    |
    |              | Amministrazione       |    |
    |              | Trasparente e Albo    |    |
    |              | pretorio).            |    |
@@ -110,7 +110,7 @@ generale.
    :class: admonition-deepening display-page
 
    Nel corso della ricerca, sono emerse alcune **considerazioni riguardo 
-   al comportamento degli** **utenti** sul sito di un Comune.            
+   al comportamento degli utenti** sul sito di un comune.            
                                                                          
    1. Il motore di ricerca è una parte fondamentale dell’esperienza      
       utente. Gli utenti che lo usano si aspettano di poter formulare    
@@ -126,9 +126,9 @@ generale.
       sito comunale possa offrire.                                       
                                                                          
    4. Ci sono molti modi diversi per arrivare a fare le cose: senza      
-      capire l'organizzazione del sito gli utenti hanno l'impressione di 
+      capire l'organizzazione del sito, gli utenti hanno l'impressione di 
       trovare quello che cercano per caso.                               
                                                                          
    5. È importante curare il modo in cui si accede e si fruisce ai       
-      diversi servizi online del Comune: far capire cosa è disponibile   
+      diversi servizi online del comune: far capire cosa è disponibile   
       attraverso il sito e cosa agli sportelli degli uffici comunali.    

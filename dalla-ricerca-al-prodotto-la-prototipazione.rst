@@ -40,7 +40,7 @@ modello di sito interattivo, fondato su queste linee di azione.
                                                                       
 -  **Personalizzazione**: l’interfaccia del prototipo è pensata per   
    adattarsi all’identità di ogni comune attraverso poche semplici    
-   regole. Definire una palette di colori coerente con l’identità del 
+   regole. Definire una *palette* di colori coerente con l’identità del 
    comune, accessibile e personalizzabile.                            
 
 .. _section-5:

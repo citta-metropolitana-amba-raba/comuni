@@ -1,6 +1,8 @@
 Fasi del progetto
 =================
 
+Il progetto è stato organizzato nelle seguenti fasi:
+
 1. Analisi dell’esistente (analytics dei siti, valutazione euristica dei
    siti dei comuni in Italia e benchmark di siti all’estero).
 
@@ -10,7 +12,7 @@ Fasi del progetto
 3. Prototipazione di un modello dei siti dei comuni (prototipo
    interattivo a media fedeltà + prototipo hi-fi).
 
-4. Supporto ai primi Comuni che intenderanno adottare il modello. È già
+4. Supporto ai primi comuni che intenderanno adottare il modello. È già
    in corso un progetto pilota all’interno del Comune di Cagliari.
 
 Il progetto utilizza i `kit di Designers

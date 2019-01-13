@@ -57,7 +57,7 @@ Conclusioni
 Organizzazione
 ~~~~~~~~~~~~~~
 
-Gli argomenti principali o aree tematiche sono il criterio organizzativo
+Gli argomenti principali o le aree tematiche sono il criterio organizzativo
 più utilizzato. Anche se il principio è simile in molti dei casi
 analizzati, l’usabilità dell’organizzazione dipende molto:
 

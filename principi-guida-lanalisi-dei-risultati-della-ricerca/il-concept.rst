@@ -28,15 +28,15 @@ Anche la ricerca evidenzia che:
 Semplicità
 ----------
 
-Una organizzazione in quattro semplici sezioni:
+Un’organizzazione in quattro semplici sezioni:
 
--  le novità
+-  le novità;
 
--  i documenti
+-  i documenti;
 
--  i servizi
+-  i servizi;
 
--  l’amministrazione
+-  l’amministrazione.
 
 Al posto di tentare di predire le esigenze di un’utenza eterogenea,
 chiamiamo le cose con il loro nome ricalcando i bisogni di alto livello
@@ -63,11 +63,11 @@ interazione comune a tutti i servizi.
 Amministrazione trasparente
 ---------------------------
 
-L’approccio che abbiamo seguito per la sezione di amministrazione
-trasparente è stato di evitare la ripetizione di contenuti solo per
-rispettare la legge, ma di strutturare tutti i contenuti del sito
-affinché siano compatibili con i requisiti della normativa e allo stesso
-tempo rendendoli più comprensibili e facili da trovare.
+L’approccio che abbiamo seguito per la sezione “Amministrazione trasparente” è
+stato quello di evitare la ripetizione di contenuti solo per rispettare la
+legge, ma di strutturare tutti i contenuti del sito affinché siano certamente
+compatibili con i requisiti della normativa ma allo stesso tempo più
+comprensibili e facili da trovare.
 
 `Maggiori dettagli sull’amministrazione
 trasparente <https://docs.google.com/spreadsheets/d/1A7AzDZ1CI-M2e8lMHjd29xXRCTUgCTYzBhl1LwTvDEE/edit#gid=2074748223>`__
