@@ -48,6 +48,3 @@ particolare:
       - n\. 2 persone non usano servizi digitali.
    
 
-Maggiori informazioni sulle `metodologie e sui risultati ottenuti
-durante la fase di
-ricerca <https://docs.google.com/presentation/d/1jh96GcNYSHcnwzXmS6w5K1pp0JftjIk08bVw54HcTtc/edit#slide=id.g30f7a59acf_0_0>`__.
